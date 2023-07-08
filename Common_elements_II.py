@@ -11,5 +11,4 @@ for j in b:
         s1.append(j)
 s=s+s1
 print(*s)
-        
-        
+    
